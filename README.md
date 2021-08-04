@@ -12,7 +12,7 @@ As you might have known, we keep learning **Forever**:
 - 👨‍🏫I am still a Cyber Security Student....working always to improve in my skills and achieve my career goals.
 
 If you are into this field:
-- 💞 I will highly love to know you and collaborate with you.
+- 💞 I will highly love to know and collaborate with you.
 - 📱Connect with me in [linkedin](https://ng.linkedin.com/in/sir-ashlogs)
 - 📱Discord @Sir_Ashlogs#0833
 
