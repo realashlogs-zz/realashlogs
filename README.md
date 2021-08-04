@@ -13,9 +13,8 @@ As you might have known, we keep learning **Forever**:
 
 If you are into this field:
 - 💞 I will highly love to know you and collaborate with you.
-- 📱Connect with me in linkedin:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sir-ashlogs" data-verison="v1"><a class="badge-base_link LI-simple-link" href="https://ng.linkedin.com/in/sir-ashlogs? trk=profile-badge">Sir_Ashlogs Alisiobi</a></div>
--📱Discord @Sir_Ashlogs#0833
+- 📱Connect with me in [linkedin](https://ng.linkedin.com/in/sir-ashlogs)
+- 📱Discord @Sir_Ashlogs#0833
 
 <!--
 **realashlogs/realashlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
