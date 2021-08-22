@@ -14,7 +14,7 @@ As you might have known, we keep learning **Forever**:
 If you are into this field:
 - 💞 I will highly love to know and collaborate with you.
 - 📱Connect with me in [linkedin](https://ng.linkedin.com/in/sir-ashlogs)
-- 📱Discord @Sir_Ashlogs#0833
+- 📱Discord @SIR_ASHLOGS#0833
 
 <!--
 **realashlogs/realashlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
